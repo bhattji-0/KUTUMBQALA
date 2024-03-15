@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.D1{
+ background-color: black;
+ color:aliceblue;
+ font-size: 30px;
+ text-align: center;
+ margin: 0;
+ padding: 0;
+ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.D2
+{
+   display: flex;
+  margin-left: 1400px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.D3
+{
+    display: flex;
+    list-style: none;
+}
+.D3 a
+{
+    text-decoration: none;
+    color: black;
+    margin-left: 25px;
+    margin-top: -33px;
+}
+.D2 a
+{
+   text-decoration: none;
+   color: grey;
+   font-size: 20px;
+}
+.D2 img{
+    height: 20px;
+    width: 30px;
+    margin-left: 25px;
+}
+.D3 img
+{ 
+ height: 100px;
+ width: 100px;
+}
+.D4 img
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 65%;
+    margin-top: -40px;
+    margin-left: 80px;
+}
+.D4{
+    display: flex;
+    list-style: none;
+    margin-top: 50px;
+    width: 60%;
+}
+.D4 a
+{
+   text-decoration: none;
+   color: grey;
+   font-size: 20px;
+   margin-left: 50px;
+}
+.D4 select
+{
+    margin-left: 40px;
+    border: none;
+    font-size: 20px;
+    margin-top: -2px;
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+}
+.D5
+{
+    width: 40%;
+    margin-top: 35px;
+    list-style: none;
+    display: flex;
+}
+.D6
+{
+    display: flex;
+    margin-bottom: 10px;
+}
+.D5 input
+{
+     height: 30px;
+     width: 250px;
+     
+     border-style: none;
+     border-color: aquamarine; 
+     padding-left: 15px;
+     margin-left: 40px;
+     margin-top: 12px;
+}
+.D5 img{
+    height: 50px;
+    width: 50px;
+    margin-left: 40px;
+}
+.D7
+{
+    background-color: lightgreen;
+    height: 200px;
+}
+.p1
+{
+    text-align: center;
+    font-family: InterstateBlackBold, Helvetica;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.p2
+{
+    text-align: center;
+    font-family: Helvetica;   
+}
+.p3
+{
+    text-align: center;
+    font-family: Helvetica;   
+}
+.D7 .b1
+{
+    margin-left: 695px;
+    height: 40px;
+    width: 150px;
+    font-size: 15px;
+    background-color: lightgreen;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.D7 .b1:hover{
+    font-size: 20px;
+    font-weight: bold;
+}
+.slide img{
+    height: 500px;
+    width: 1519px;
+}
+.slide{
+    margin-top: 10px;
+}
+h3{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    background-color: black;
+    color:aliceblue;
+    font-size: 30px;
+}
+.D8 img{
+    height: 600px;
+    width: 450px;
+    border-radius: 35px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+footer{
+    margin-top: 5px;
+}
+h1{
+    margin-top: 10px;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.D8 button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 680px;
+    border: none;
+    text-decoration: none;
+    height: 40px;
+    width: 150px;
+    font-size: 15px;
+    background-color: rgb(0, 128, 124);
+    border-radius: 5px;
+}
+.D8 button:hover{
+    font-size: 20px;
+    font-weight: bold;
+}
+.D8 button a{
+    text-decoration: none;
+    color:black
+}
+.D8{
+    margin-top: 10px;
+    background-color: yellow;
+}
